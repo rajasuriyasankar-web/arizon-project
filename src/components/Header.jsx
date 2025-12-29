@@ -80,7 +80,7 @@ const Header = () => {
 
                         <Link to="/" className="flex-shrink-0">
                             <img
-                                src="/assests/logo.png"
+                                src="/assets/logo.png"
                                 alt="Quality Bearings Online"
                                 className="h-16 w-auto"
                             />
@@ -92,7 +92,7 @@ const Header = () => {
                                 className="flex items-center gap-1 hover:opacity-80 transition-opacity"
                             >
                                 <div className="relative">
-                                    <img src="/assests/icon_cart.png" alt="Cart" className="w-8 h-8 object-contain" />
+                                    <img src="/assets/icon_cart.png" alt="Cart" className="w-8 h-8 object-contain" />
                                     {getTotalItems() > 0 && (
                                         <span className="absolute -top-1 -right-1 bg-navy text-white text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center">
                                             {getTotalItems()}
@@ -114,7 +114,7 @@ const Header = () => {
                         {/* Logo */}
                         <Link to="/" className="flex-shrink-0">
                             <img
-                                src="/assests/logo.png"
+                                src="/assets/logo.png"
                                 alt="Quality Bearings Online"
                                 className="h-24 w-auto"
                             />
@@ -179,7 +179,7 @@ const Header = () => {
                                     className="flex items-center gap-2 hover:opacity-80 transition-opacity"
                                 >
                                     <div className="relative">
-                                        <img src="/assests/icon_cart.png" alt="Cart" className="w-11 h-11 object-contain" />
+                                        <img src="/assets/icon_cart.png" alt="Cart" className="w-11 h-11 object-contain" />
                                         {getTotalItems() > 0 && (
                                             <span className="absolute -top-1 -right-1 bg-navy text-white text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center">
                                                 {getTotalItems()}
@@ -286,7 +286,7 @@ const Header = () => {
                     <div className="flex items-center justify-between text-xs text-black">
                         {/* Free Delivery */}
                         <div className="flex items-center gap-3">
-                            <img src="/assests/icon_handshake.png" alt="Free Delivery" className="w-8 h-8 object-contain" />
+                            <img src="/assets/icon_handshake.png" alt="Free Delivery" className="w-8 h-8 object-contain" />
                             <div className="flex flex-col leading-tight">
                                 <span className="font-bold text-sm">Free Delivery</span>
                                 <span className="font-semibold text-gray-800">Over $500.00</span>
@@ -295,7 +295,7 @@ const Header = () => {
 
                         {/* DHL Delivery */}
                         <div className="flex items-center gap-3">
-                            <img src="/assests/icon_delivery.png" alt="DHL Delivery" className="w-8 h-8 object-contain" />
+                            <img src="/assets/icon_delivery.png" alt="DHL Delivery" className="w-8 h-8 object-contain" />
                             <div className="flex flex-col leading-tight">
                                 <span className="font-bold text-sm">1-3 Day DHL & UPS</span>
                                 <span className="font-semibold text-gray-800">Delivery</span>
@@ -304,7 +304,7 @@ const Header = () => {
 
                         {/* Queen's Award */}
                         <div className="flex items-center gap-3">
-                            <img src="/assests/icon_award.png" alt="Queen's Award" className="w-8 h-8 object-contain" />
+                            <img src="/assets/icon_award.png" alt="Queen's Award" className="w-8 h-8 object-contain" />
                             <div className="flex flex-col leading-tight">
                                 <span className="font-bold text-sm">Queen's Award For</span>
                                 <span className="font-semibold text-gray-800">Enterprise Winners</span>
@@ -313,7 +313,7 @@ const Header = () => {
 
                         {/* ISO */}
                         <div className="flex items-center gap-3">
-                            <img src="/assests/icon_iso.png" alt="ISO Certification" className="w-8 h-8 object-contain" />
+                            <img src="/assets/icon_iso.png" alt="ISO Certification" className="w-8 h-8 object-contain" />
                             <div className="flex flex-col leading-tight">
                                 <span className="font-bold text-sm">ISO 9001 : 2015</span>
                                 <span className="font-semibold text-gray-800">Cert. No.291342018</span>

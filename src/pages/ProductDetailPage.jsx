@@ -166,7 +166,7 @@ const ProductDetailPage = () => {
 
                             {/* Feefo Rating Placeholder */}
                             <div className="mb-4">
-                                <img src="/assests/feefo-rating.png" alt="Feefo Product Rating - 6 reviews" className="h-8" />
+                                <img src="/assets/feefo-rating.png" alt="Feefo Product Rating - 6 reviews" className="h-8" />
                             </div>
 
                             {/* Payment Icons */}

@@ -1,22 +1,22 @@
 const FeaturesSection = () => {
     const features = [
         {
-            image: '/assests/feature_delivery.png',
+            image: '/assets/feature_delivery.png',
             title: 'Super-Fast, Hassle Free Delivery',
             description: 'Deliveries within 1-3 days, with all sea & duties paid within Canada. The price you see online is the price you pay.',
         },
         {
-            image: '/assests/feature_service.png',
+            image: '/assets/feature_service.png',
             title: 'Unrivalled Customer Service',
             description: 'With over 75 years industry experience, you can trust Quality Bearings Online.',
         },
         {
-            image: '/assests/feature_award.png',
+            image: '/assets/feature_award.png',
             title: 'Multi-Award-Winning',
             description: 'Winners Of The Queen\'s Award For Enterprise For International Trade 2023 | Lloyds Bank Employer Of The Year.',
         },
         {
-            image: '/assests/feature_warranty.png',
+            image: '/assets/feature_warranty.png',
             title: 'World Renowned Brands',
             description: 'Quality verified products from the world\'s leading brands such as SKF, Kluber, Timken, FAG and many more.',
         },
